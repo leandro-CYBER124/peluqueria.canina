@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Mismo framework que el repo SistemaVentasTaller: .NET Framework 4.7.2 -->
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>CapaEntidad</RootNamespace>
+    <AssemblyName>CapaEntidad</AssemblyName>
+  </PropertyGroup>
+
+</Project>
